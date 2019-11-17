@@ -1,11 +1,11 @@
 [CustomSkin]
-ChatFont=fonts.ttf
-EscMenuTextFont=fonts.ttf
-TextTagFont=fonts.ttf
-InfoPanelTextFont=fonts.ttf
-MasterFont=fonts.ttf
-MessageFont=fonts.ttf
-SimpleHpBarConsoleSmall=boold2.blp
+ChatFont=war3mapImported\fonts.ttf
+EscMenuTextFont=war3mapImported\fonts.ttf
+TextTagFont=war3mapImported\fonts.ttf
+InfoPanelTextFont=war3mapImported\fonts.ttf
+MasterFont=war3mapImported\fonts.ttf
+MessageFont=war3mapImported\fonts.ttf
+SimpleHpBarConsoleSmall=war3mapImported\boold2.blp
 
 [FrameDef]
 BONUS_ATTACK_SPEED= - 提升攻击速度
