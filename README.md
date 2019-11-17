@@ -14,6 +14,7 @@
 ### assets-models\interface
 * fonts.ttf 直接导入即可（由war3mapskin管理）
 * boold2.blp 直接导入即可（由war3mapskin管理）
+* SpellAreaOfEffect512.blp 直接导入即可（由war3mapskin管理）
 * CommandFunc.txt 路径删除 war3mapImported\
 * war3mapskin.txt 路径删除 war3mapImported\
 * war3mapMisc.txt 路径删除 war3mapImported\　(使用slk时，此文件会引起报错，不可使用)
@@ -30,7 +31,7 @@
 * ui-cd\7.tga 路径改为 interface\7.tga
 * ui-cd\8.tga 路径改为 interface\8.tga
 * ui-cd\9.tga 路径改为 interface\9.tga
-* ui-cd\cooldown ui.mdx 路径改为 interface\cooldown ui.mdx
+* ui-cd\cooldown ui.mdx 直接导入即可（由war3mapskin管理）
 * ui-cooldown-indicator.mdx 路径改为 interface\ui-cooldown-indicator.mdx
 * selectioncircle\SelectionCircleSmall.blp 路径改为 replaceabletextures\selection\SelectionCircleSmall.blp
 * selectioncircle\SelectionCircleMed.blp 路径改为 replaceabletextures\selection\SelectionCircleMed.blp

@@ -5,7 +5,10 @@ TextTagFont=war3mapImported\fonts.ttf
 InfoPanelTextFont=war3mapImported\fonts.ttf
 MasterFont=war3mapImported\fonts.ttf
 MessageFont=war3mapImported\fonts.ttf
+PlacementCursor=war3mapImported\SpellAreaOfEffect512.blp
+CommandButtonCooldown=war3mapImported\cooldown ui.mdx
 SimpleHpBarConsoleSmall=war3mapImported\boold2.blp
+IdlePeon=ReplaceableTextures\CommandButtons\BTNRallyPoint.blp
 
 [FrameDef]
 BONUS_ATTACK_SPEED= - 提升攻击速度
