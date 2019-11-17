@@ -15,9 +15,9 @@
 * fonts.ttf 直接导入即可（由war3mapskin管理）
 * boold2.blp 直接导入即可（由war3mapskin管理）
 * SpellAreaOfEffect512.blp 直接导入即可（由war3mapskin管理）
-* CommandFunc.txt 路径删除 war3mapImported\
 * war3mapskin.txt 路径删除 war3mapImported\
 * war3mapMisc.txt 路径删除 war3mapImported\　(使用slk时，此文件会引起报错，不可使用)
+* CommandFunc.txt 路径改为 units\CommandFunc.txt
 * Confirmation.mdx 路径改为 UI\Feedback\Confirmation\Confirmation.mdx
 * human-activebutton.blp 路径改为 UI\Widgets\Console\Human\CommandButton\human-activebutton.blp
 * minimap-hero.blp 路径改为 UI\MiniMap\minimap-hero.blp
