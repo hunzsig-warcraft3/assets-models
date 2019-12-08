@@ -38,5 +38,8 @@
 * selectioncircle\SelectionCircleLarge.blp 路径改为 replaceabletextures\selection\SelectionCircleLarge.blp
 * ReplaceableTextures\Cliff\Cliff0.tga 路径改为 ReplaceableTextures\Cliff\Cliff0.tga
 * ReplaceableTextures\Cliff\Cliff1.tga 路径改为 ReplaceableTextures\Cliff\Cliff1.tga
-* TerrainArt 路径要根据你所使用的地形的地砖路径改动,前面加 terrainart\ashenvale\
+* TerrainArt 路径要根据你所使用的地形的地砖路径改动,前面加
+	TerrainArt\Ashenvale\
+	TerrainArt\Cityscape\
+	TerrainArt\Dalaran\
 > TerrainArt 涉及到白杨谷、城邦、达内然的地形，共计16个
