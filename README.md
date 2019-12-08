@@ -38,26 +38,5 @@
 * selectioncircle\SelectionCircleLarge.blp 路径改为 replaceabletextures\selection\SelectionCircleLarge.blp
 * ReplaceableTextures\Cliff\Cliff0.tga 路径改为 ReplaceableTextures\Cliff\Cliff0.tga
 * ReplaceableTextures\Cliff\Cliff1.tga 路径改为 ReplaceableTextures\Cliff\Cliff1.tga
-
-* TerrainArt 路径要根据你所使用的地形的地砖路径改动
-```
-白杨谷
-terrainart\ashenvale\ashen_dirt.tga
-terrainart\ashenvale\ashen_dirtgrass.tga
-terrainart\ashenvale\ashen_dirtrough.tga
-terrainart\ashenvale\ashen_grass.tga
-terrainart\ashenvale\ashen_grasslumpy.tga
-terrainart\ashenvale\ashen_leaves.tga
-terrainart\ashenvale\ashen_rock.tga
-terrainart\ashenvale\ashen_vines.tga
-城邦
-terrainart\cityscape\city_blackmarble.tga
-terrainart\cityscape\city_bricktiles.tga
-terrainart\cityscape\city_dirtrough.tga
-terrainart\cityscape\city_roundtiles.tga
-terrainart\cityscape\city_whitemarble.tga
-达内然
-terrainart\dalaran\dalaran_blackmarble.tga
-terrainart\dalaran\dalaran_bricktiles.tga
-terrainart\dalaran\dalaran_grasstrim.tga
-```
+* TerrainArt 路径要根据你所使用的地形的地砖路径改动,前面加 terrainart\ashenvale\
+> TerrainArt 涉及到白杨谷、城邦、达内然的地形，共计16个
