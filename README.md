@@ -3,13 +3,13 @@
 > 大部分mdx文件直接导入即可，部分mdx依赖blp贴图文件，特殊文件特殊处理
 
 ### assets-models\decoration
- * 直接导入即可使用，无须该路径
+ * 直接导入即可使用，无须改路径
 
 ### assets-models\effect
- * 直接导入即可使用，无须该路径
+ * 直接导入即可使用，无须改路径
 
 ### assets-models\unit
- * 直接导入即可使用，无须该路径
+ * 直接导入即可使用，无须改路径
 
 ### assets-models\interface
 * fonts.ttf 直接导入即可（由war3mapskin管理）
