@@ -1,17 +1,18 @@
 # assets-models
 【资源】可用精致模型
-> 大部分mdx文件直接导入即可，部分mdx依赖blp贴图文件，特殊文件特殊处理
 
-### assets-models\decoration
- * 直接导入即可使用，无须改路径
+### assets-models\war3mapImported 模型
+ * 直接导入到resource\war3mapImported
+> 模型贴图都在war3mapTextures
 
-### assets-models\effect
- * 直接导入即可使用，无须改路径
+### assets-models\war3mapTextures 贴图
+ * 直接导入到resource\war3mapTextures
 
-### assets-models\unit
- * 直接导入即可使用，无须改路径
+### assets-models\mark
+ * 一些遮罩
 
-### assets-models\interface
+### assets-models\interface[只代表编辑器立场]
+> ！！！h-lua V2全部内嵌，不建议自己使用，快来加入【h-lua-sdk】
 * fonts.ttf 直接导入即可（由war3mapskin管理）
 * boold2.blp 直接导入即可（由war3mapskin管理）
 * SpellAreaOfEffect512.blp 直接导入即可（由war3mapskin管理）
@@ -21,7 +22,7 @@
 * Confirmation.mdx 路径改为 UI\Feedback\Confirmation\Confirmation.mdx
 * human-activebutton.blp 路径改为 UI\Widgets\Console\Human\CommandButton\human-activebutton.blp
 * minimap-hero.blp 路径改为 UI\MiniMap\minimap-hero.blp
-* ui-cd\0.tga 路径改为 interface\0.tga
+* ui-cd\0.tga 路径改为 interface\0.tga(不一定的，h-lua就不是)
 * ui-cd\1.tga 路径改为 interface\1.tga
 * ui-cd\2.tga 路径改为 interface\2.tga
 * ui-cd\3.tga 路径改为 interface\3.tga
@@ -38,8 +39,8 @@
 * selectioncircle\SelectionCircleLarge.blp 路径改为 replaceabletextures\selection\SelectionCircleLarge.blp
 * ReplaceableTextures\Cliff\Cliff0.tga 路径改为 ReplaceableTextures\Cliff\Cliff0.tga
 * ReplaceableTextures\Cliff\Cliff1.tga 路径改为 ReplaceableTextures\Cliff\Cliff1.tga
-* TerrainArt 路径要根据你所使用的地形的地砖路径改动,前面加
+* TerrainArt 路径要根据你所使用的地形的地砖路径改动,前面加，如
 	TerrainArt\Ashenvale\
 	TerrainArt\Cityscape\
 	TerrainArt\Dalaran\
-> TerrainArt 涉及到白杨谷、城邦、达内然的地形，共计16个
+> TerrainArt 涉及到地形，共计16个
